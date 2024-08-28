@@ -46,5 +46,5 @@ A curated list of blogs, articles, and podcasts that provide valuable insights a
 Articles on Medium, Substack: https://medium.com and https://substack.com
 
 ## Useful repos
-Mark Winteringham: https://github.com/mwinteringham/api-framework/tree/trunk
-Bas Dijkstra: https://github.com/basdijkstra
+* Mark Winteringham: https://github.com/mwinteringham/api-framework/tree/trunk
+* Bas Dijkstra: https://github.com/basdijkstra
