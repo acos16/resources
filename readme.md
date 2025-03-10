@@ -49,3 +49,5 @@ Articles on Medium, Substack: https://medium.com and https://substack.com
 ## Useful repos
 * Mark Winteringham: https://github.com/mwinteringham/api-framework/tree/trunk
 * Bas Dijkstra: https://github.com/basdijkstra
+* Andrew Knight: https://github.com/AutomationPanda/awesome-web-testing-playwright
+* Toni Robres: https://github.com/twiindan/SOLID_patterns
